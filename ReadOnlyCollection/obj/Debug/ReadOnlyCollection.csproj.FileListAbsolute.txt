@@ -1,0 +1,6 @@
+C:\C# .Net\collections\Collections\ReadOnlyCollection\bin\Debug\ReadOnlyCollection.exe.config
+C:\C# .Net\collections\Collections\ReadOnlyCollection\bin\Debug\ReadOnlyCollection.exe
+C:\C# .Net\collections\Collections\ReadOnlyCollection\bin\Debug\ReadOnlyCollection.pdb
+C:\C# .Net\collections\Collections\ReadOnlyCollection\obj\Debug\ReadOnlyCollection.exe
+C:\C# .Net\collections\Collections\ReadOnlyCollection\obj\Debug\ReadOnlyCollection.pdb
+C:\C# .Net\collections\Collections\ReadOnlyCollection\obj\Debug\ReadOnlyCollection.csprojAssemblyReference.cache
