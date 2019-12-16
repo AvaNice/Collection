@@ -15,7 +15,11 @@ namespace Collections
 
         public int GetHashCode(Student obj)
         {
-            return obj.Name.GetHashCode();
+            Random a = new Random();
+
+            
+           return obj.Name.GetHashCode();
+            
         }
     }
 }

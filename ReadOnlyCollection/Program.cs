@@ -21,6 +21,8 @@ namespace ReadOnlyCollection
 
             ICollection<int> collection = readOnly;
 
+            Console.WriteLine(readOnly.Count);
+
             try
             {
                 collection.Add(2); //
@@ -32,14 +34,18 @@ namespace ReadOnlyCollection
                 Console.WriteLine(ex.Message);
             }
 
-            list.Add(5);
+            list.Add(5); //изменение
+
+            Console.WriteLine(readOnly.Count);
 
             List<int> list2 = readOnly.ToList<int>();
 
             list2.Add(6);
 
+            Console.WriteLine(readOnly.Count);
+
             //---------------------------------------------------------------------------------
-            
+
             IReadOnlyCollection<int> iReadOnlyCollection = list;
 
             int count = iReadOnlyCollection.Count();
@@ -47,6 +53,14 @@ namespace ReadOnlyCollection
             IReadOnlyList<int> iReadOnlyList = list;
 
             int item = iReadOnlyList[0];
+
+            List<int> list3 = (List<int>)iReadOnlyCollection;
+
+            Console.WriteLine(iReadOnlyCollection.Count);
+
+            list3.Add(7);
+
+            Console.WriteLine(iReadOnlyCollection.Count);
 
             //----------------------------------------------------------------------------------
 

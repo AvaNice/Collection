@@ -4,3 +4,9 @@ C:\C# .Net\collections\Collections\Collections\bin\Debug\Collections.pdb
 C:\C# .Net\collections\Collections\Collections\obj\Debug\HashSet.csprojAssemblyReference.cache
 C:\C# .Net\collections\Collections\Collections\obj\Debug\Collections.exe
 C:\C# .Net\collections\Collections\Collections\obj\Debug\Collections.pdb
+C:\C# .Net\collections\Collection\Collections\bin\Debug\Collections.exe.config
+C:\C# .Net\collections\Collection\Collections\bin\Debug\Collections.exe
+C:\C# .Net\collections\Collection\Collections\bin\Debug\Collections.pdb
+C:\C# .Net\collections\Collection\Collections\obj\Debug\HashSet.csprojAssemblyReference.cache
+C:\C# .Net\collections\Collection\Collections\obj\Debug\Collections.exe
+C:\C# .Net\collections\Collection\Collections\obj\Debug\Collections.pdb

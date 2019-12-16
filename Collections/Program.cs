@@ -32,7 +32,6 @@ namespace Collections
 
             IEnumerable<int> intersect = firstIntSet.Intersect(secondIntSet);
             IEnumerable<int> union = firstIntSet.Union(secondIntSet);
-            
             firstIntSet.SymmetricExceptWith(secondIntSet);
 
             //---------------------------------------------------------------------------------
